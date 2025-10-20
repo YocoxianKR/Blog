@@ -1,0 +1,22 @@
+[
+  {
+    "id": "001",
+    "tipo": "comunicado",
+    "titulo": "Bienvenida a la nueva plataforma",
+    "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+    "miniDescripcion": "Se ha lanzado la nueva plataforma de la comunidad",
+    "descripcion": "¡Hola a todos! Estamos **muy contentos** de presentarles la *nueva plataforma* de nuestra comunidad. Esta herramienta ha sido __diseñada especialmente__ para mejorar la comunicación entre todos nosotros.\n\nAlgunas características destacadas:\n- Sistema de **búsqueda avanzado**\n- Interfaz *intuitiva y moderna*\n- Soporte para __múltiples formatos__ de contenido",
+    "fecha": "2025-10-20T01:21:36Z",
+    "autor": "Admin"
+  },
+  {
+    "id": "002",
+    "tipo": "actualización",
+    "titulo": "Actualización de normas de la comunidad",
+    "imagen": null,
+    "miniDescripcion": "Se han actualizado las normas principales",
+    "descripcion": "Estimados miembros,\n\nComunicamos los **cambios en nuestras normas**:\n\n1. Se requiere __respetuosidad__ en todos los comentarios\n2. No se permite el contenido **inapropiado**\n3. Se prohíbe el ~~spam~~ dentro de la comunidad\n\nPara más detalles, consulten el documento completo.",
+    "fecha": "2025-10-19T15:30:00Z",
+    "autor": "Moderadores"
+  }
+]
